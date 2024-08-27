@@ -43,10 +43,13 @@
 <h2 align="center">🛠 Languages-Frameworks-Tools</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,express,java,cpp,c,mysql,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,css,cpp,docker,express,git,github,html,java,js,linux,mongodb,mysql" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,figma,blender,github,postman,vercel,vite" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,reactnative,tailwind,typescript,vscode,visualstudio,androidstudio,vercel,vite" />
+</p>
+
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
